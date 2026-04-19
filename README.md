@@ -1,6 +1,6 @@
 <div align="center">
 
-# Production-Ready Checklist
+# senior-mode
 
 **AI-powered skill prompts that turn Claude Code into a production-hardened tech lead for your stack.**
 
